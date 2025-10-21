@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Ilya Tkachenko
+# 👋 Привет! Я — Илья Ткаченко
 
-🎯 **Data Analyst | BI Analyst | Product Analyst**
+🎯 **Аналитик данных | BI-аналитик | Продуктовый аналитик**
 
-I explore data to uncover insights and turn them into actionable decisions.  
-Focused on user behavior, product metrics, and business performance visualization.
-
----
-
-### 🧠 Focus Areas
-- Data preprocessing & EDA  
-- Product and business metrics (LTV, ROI, Retention, CAC)  
-- A/B testing & hypothesis validation  
-- Interactive BI dashboards and storytelling with data  
+Изучаю данные, чтобы находить инсайты и превращать их в практические решения.
+Сфокусирован на анализе пользовательского поведения, продуктовых метрик и визуализации бизнес-показателей.
 
 ---
 
-### 🧰 Tools & Skills
+### 🧠 Основные направления
+- Предобработка и исследовательский анализ данных (EDA)
+- Продуктовые и бизнес-метрики (LTV, ROI, Retention, CAC)
+- A/B-тестирование и проверка гипотез  
+- Интерактивные BI-дашборды и сторителлинг на основе данных
+
+---
+
+### 🧰 Инструменты и навыки
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -24,7 +24,7 @@ Focused on user behavior, product metrics, and business performance visualizatio
 
 ---
 
-### 🌐 Connect
+### 🌐 Связаться со мной
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-tkachenko-708ba0330/)
 
 ---
