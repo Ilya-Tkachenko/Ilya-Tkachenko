@@ -1,32 +1,39 @@
-# 👋 Привет! Я — Илья Ткаченко
-
-🎯 **Аналитик данных | BI-аналитик | Продуктовый аналитик**
-
-Изучаю данные, чтобы находить инсайты и превращать их в практические решения.
-Сфокусирован на анализе пользовательского поведения, продуктовых метрик и визуализации бизнес-показателей.
+# 👋 Hi, I'm Ilya Tkachenko
 
 ---
 
-### 🧠 Основные направления
-- Предобработка и исследовательский анализ данных (EDA)
-- Продуктовые и бизнес-метрики (LTV, ROI, Retention, CAC)
-- A/B-тестирование и проверка гипотез  
-- Интерактивные BI-дашборды и сторителлинг на основе данных
+## 💼 Data Analyst | BI Analytics · Python · SQL · BI Tools (Tableau, Power BI, DataLens)
+
+I'm a data analyst passionate about uncovering insights from product and user behavior.  
+I specialize in product metrics, retention analysis, and building interactive dashboards that help turn data into decisions.  
+Currently focused on Python, SQL, and BI tools in real-world analytical projects.
 
 ---
 
-### 🧰 Инструменты и навыки
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![DataLens](https://img.shields.io/badge/DataLens-00A3E0?style=for-the-badge&logo=yandex&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" alt="Tableau" />
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="40" alt="Power BI" />
+</p>
 
 ---
 
-### 🌐 Связаться со мной
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-tkachenko-708ba0330/)
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya%20Tkachenko-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilya-tkachenko)
 
 ---
 
-> _Data-driven mindset | Visual analytics | Turning data into business value_
+## 📁 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| **Court Decisions Analysis** | Analyzed court decisions involving real estate developers to identify cases with faster resolution and higher average compensation. Insights supported data-driven decisions for optimizing marketing and client acquisition strategy. | `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
+| **Product Metrics & ROI Dashboard** | Built an interactive Tableau dashboard to analyze product performance (DAU, Retention, LTV, ROI) and advertising ROI. Identified channels with declining efficiency and suggested improvements. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Tableau` |
+
+---
+
+> _Data-driven mindset · Clear storytelling · BI dashboards with impact_
