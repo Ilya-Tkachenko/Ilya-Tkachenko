@@ -23,7 +23,7 @@ Currently focused on Python, SQL, and BI tools in real-world analytical projects
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya%20Tkachenko-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilya-tkachenko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya%20Tkachenko-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilya-n-tkachenko/)
 
 ---
 
@@ -31,8 +31,8 @@ Currently focused on Python, SQL, and BI tools in real-world analytical projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| **Court Decisions Analysis** | Analyzed court decisions involving real estate developers to identify cases with faster resolution and higher average compensation. Insights supported data-driven decisions for optimizing marketing and client acquisition strategy. | `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
-| **Product Metrics & ROI Dashboard** | Built an interactive Tableau dashboard to analyze product performance (DAU, Retention, LTV, ROI) and advertising ROI. Identified channels with declining efficiency and suggested improvements. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Tableau` |
+| [**Court Decisions Analysis**](https://github.com/Ilya-Tkachenko/analysis_of_the_construction_expertise_market) | Analyzed court decisions involving real estate developers to identify cases with faster resolution and higher average compensation. Insights supported data-driven decisions for optimizing marketing and client acquisition strategy. | `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
+| [**Product Metrics & ROI Dashboard**](https://github.com/Ilya-Tkachenko/digital_metrics_project) | Built an interactive Tableau dashboard to analyze product performance (DAU, Retention, LTV, ROI) and advertising ROI. Identified channels with declining efficiency and suggested improvements. | `Python`, `Pandas`, `Seaborn`, `Matplotlib`, `Tableau` |
 
 ---
 
